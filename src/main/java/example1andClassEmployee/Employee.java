@@ -4,6 +4,12 @@ package example1andClassEmployee;
 //3. Создадим метод DisplayDetails, который возвращает значения полей класса
 //4. Создадим метод, принимающий в кач аргумента экземпляр Employee и возвращающий строку с использ методов get...
 //5. Создайте три экземпляра класса Employee и поиграйте с методами
+    /*
+    Val Lenin Street11 20000
+Дорогой Val буду рад встрече по адресу Lenin Street11
+107000
+Дорогой Gleb буду рад встрече по адресу Queen Street 45
+     */
 //1.
 public class Employee {
     private String employeeName;
